@@ -1,0 +1,1 @@
+BeautifulSoup approach to scrape the tables
